@@ -7,7 +7,7 @@ This repository is the documentation of my progress in learning Kotlin.It contai
 ## PROGRESS
 - Developer.android.com
   - Unit 1: Your first Android app
-     -  [ ] Introduction to Kotlin
+     -  [X] Introduction to Kotlin
      -  [ ] Setup Android Studio
      -  [ ] Build a basic layout
   - Unit 2: Building app UI
