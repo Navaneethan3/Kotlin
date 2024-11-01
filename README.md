@@ -2,7 +2,7 @@
 This repository is the documentation of my progress in learning Kotlin.It contains the tools used by me to learn kotlin.
 ## RESOURCES
 
--https://developer.android.com/courses/android-basics-compose/course
+https://developer.android.com/courses/android-basics-compose/course
 
 ## PROGRESS
 - Developer.android.com
