@@ -8,3 +8,11 @@
 - https://kotlinlang.org/docs/numbers.html#integer-types
 - https://play.kotlinlang.org/byExample/01_introduction/03_Variables
 - https://kotlinlang.org/docs/functions.html#default-arguments
+- https://m3.material.io/foundations/layout/understanding-layout/spacing#abccd6ce-1092-4ad0-9351-de75aeae0edf
+- https://developer.android.com/studio/intro
+- https://developer.android.com/studio/projects
+- https://developer.android.com/studio/projects/create-project
+- https://developer.android.com/studio/projects/templates
+- https://developer.android.com/compose
+- https://developer.android.com/studio/run
+- https://developer.android.com/studio/run/emulator
