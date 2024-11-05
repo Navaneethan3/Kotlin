@@ -9,7 +9,7 @@ This repository is the documentation of my progress in learning Kotlin.It contai
 - Developer.android.com
   - Unit 1: Your first Android app
      -  [X] Introduction to Kotlin
-     -  [ ] Setup Android Studio
+     -  [X] Setup Android Studio
      -  [ ] Build a basic layout
   - Unit 2: Building app UI
      -  [ ] Kotlin fundamentals
