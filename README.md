@@ -4,6 +4,7 @@ This repository is the documentation of my progress in learning Kotlin.It contai
 
 - https://developer.android.com/courses/android-basics-compose/course
 - https://hyperskill.org/courses/18
+- https://stuff.mit.edu/afs/sipb/project/android/docs/training/index.html
 
 ## PROGRESS
 - Developer.android.com
