@@ -36,6 +36,6 @@ This repository is the documentation of my progress in learning Kotlin.It contai
   - Unit 8: Views and Compose
      -  [ ] Android Views and Compose in Views
      -  [ ] Views in Compose
-
-
+##  PROJECTS:-
+  - create a program to calculate the total loan amount pending including service charge of 500 per year.
 
