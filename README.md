@@ -38,4 +38,6 @@ This repository is the documentation of my progress in learning Kotlin.It contai
      -  [ ] Views in Compose
 ##  PROJECTS:-
   - create a program to calculate the total loan amount pending including service charge of 500 per year.
+     - rules:-
+     - 
 
