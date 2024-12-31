@@ -39,5 +39,9 @@ This repository is the documentation of my progress in learning Kotlin.It contai
 ##  PROJECTS:-
   - create a program to calculate the total loan amount pending including service charge of 500 per year.
      - rules:-
-     - 
+     - get principle amount from user.
+     - get start year , end year from user.
+     - create a loop that gets the base interest rate from user with year printing automatically in defult statement.
+     - the compount interest must be calculated on the interest amount if the user did not pay the amount on time and interest on the principal amount must be calculated separately.
+     - ask the user whether he paid the anual emi on time.(initially in the development process assume he has not paid on time)
 
